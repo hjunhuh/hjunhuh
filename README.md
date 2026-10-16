@@ -1,8 +1,11 @@
 
 ## H. Jun Huh
  
-<a href="https://hhj.devent.kr/" target="_blank">Personal Website</a>    
-<a href="https://cse.ac" target="_blank">Blog</a>  
+Personal: <a href="https://hhj.devent.kr/" target="_blank">hhj.devent.kr</a>    
+Blog: <a href="https://cse.ac" target="_blank">cse.ac</a>  
+Email: [jun@cse.ac](mailto:jun@cse.ac)  
+X: [@hjunhuh](https://x.com/hjunhuh)
+
 
 
 <!--
